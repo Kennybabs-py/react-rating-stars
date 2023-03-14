@@ -1,0 +1,16 @@
+.outer_rating_stars__container {
+  display: inline-flex;
+  position: relative;
+  cursor: pointer;
+  text-align: left;
+}
+
+.inner_rating_stars__container {
+  position: relative;
+  cursor: pointer;
+}
+
+.filled_star__container {
+  overflow: hidden;
+  position: absolute;
+}
